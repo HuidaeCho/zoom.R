@@ -6,4 +6,4 @@ There are several packages for interactive plotting in R, but sometimes I’d li
 
 https://idea.isnew.info/zoom.r.html
 
-(C) 2007 GPL by Huidae Cho <http://idea.isnew.info/>
+(C) 2007 GPL by Huidae Cho <<http://idea.isnew.info/>>
